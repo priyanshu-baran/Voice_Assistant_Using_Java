@@ -14,7 +14,7 @@ class TTS{
             voice.setVolume(1);
             voice.speak("Hello Sir");
             voice.setRate(160);
-            voice.speak("What can I be of service");
+//            voice.speak("What can I be of service");
         }catch(Exception e){
             e.printStackTrace();
         }
