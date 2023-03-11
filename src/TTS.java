@@ -20,6 +20,7 @@ class TTS{
         }
     }
     public static void main(String[] args){
+        //noinspection InstantiationOfUtilityClass
         new TTS();
     }
 }
