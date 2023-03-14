@@ -11,7 +11,7 @@ public class Start2 extends JFrame{
         Runnable task = () -> setVisible(false);
         scheduler.schedule(task,6300,TimeUnit.MILLISECONDS);
         scheduler.shutdown();
-        URL url = Start2.class.getResource("Items/#1.2.gif");
+        URL url = Start2.class.getResource("Items/1_2.gif");
         assert url!=null;
         ImageIcon icon = new ImageIcon(url);
         Image i2=icon.getImage().getScaledInstance(1920,1080,Image.SCALE_DEFAULT);
@@ -25,7 +25,7 @@ public class Start2 extends JFrame{
     }
     public static void audio(){
         try {
-            String filePath="D:\\Priyanshu\\Java Programming\\Intellij Idea Projects\\Voice Assistant\\src\\Items\\#1.2.wav";
+            String filePath="D:\\Priyanshu\\Java Programming\\Intellij Idea Projects\\Voice Assistant\\src\\Items\\1_2.wav";
             Clip clip = AudioSystem.getClip();
             clip.open(AudioSystem.getAudioInputStream(new File(filePath).getAbsoluteFile()));
             clip.start();
