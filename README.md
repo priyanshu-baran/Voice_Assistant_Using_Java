@@ -1,6 +1,5 @@
 # Voice Assistant (named JARVIS 😜) Using Java
 
----
 ## Introduction (❁´◡`❁):
 
 This project is basically made by me in order to step in the world of Voice Assistant with Java. I have used two main components, or you can say Libraries for it. The first one is **FreeTTS**, this is for converting text-to-speech and the second one is **Sphinx4**, used for converting speech-to-text.<br/>
