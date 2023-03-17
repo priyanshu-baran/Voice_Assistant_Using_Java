@@ -44,7 +44,7 @@ But when it comes to speech-to-text, you need to prepare some stuffs beforehand 
 ---
 ## Known issues (Work in progress... 👷🏽‍♂️⚒️)
 
-This project is still ongoing. I am working on converting this whole thing in a GUI for better user experience. So till then do whatever you like and wait for it as it will be soon get uploaded here.
+This project is still ongoing. I am working on converting this whole thing in a GUI for better user experience along with few more commands✍️📝. So till then do whatever you like and wait for it as it will be soon get uploaded here👍.
 
 ---
 ## Like this project? 🤩
