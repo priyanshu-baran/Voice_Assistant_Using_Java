@@ -3,7 +3,7 @@
 
 ## Introduction (❁´◡`❁):
 
-This project is basically made by me in order to step in the world of Voice Assistant with Java. I have used two main components, or you can say Libraries for it. The first one is **FreeTTS**, this is for converting text-to-speech and the second one is **Sphinx4**, used for converting speech-to-text.<br/>
+This project is basically made by me in order to step in the world of AI (Artificial Intelligence) with Java. I have used two main components, or you can say Libraries for it. The first one is **FreeTTS**, this is for converting text-to-speech and the second one is **Sphinx4**, used for converting speech-to-text.<br/>
 
 Using FreeTTS is somewhat easy, you just need to set the voice ***(this library comes with some inbuilt voices, you can use one of them or use another famous library specifically for choosing voices of your own choice, i.e. MBROLA)*** and that's it. Now give some command for it to speak and there you go... 😍. Need help? Just once check the sample [TTS.java](https://github.com/priyanshu-baran/Voice_Assistant_Using_Java/blob/master/src/TTS.java) file for this.<br/>
 
@@ -40,6 +40,11 @@ But when it comes to speech-to-text, you need to prepare some stuffs beforehand 
 
 [//]: # ()
 [//]: # (If you found an issue or would like to submit an improvement to this project, please submit an issue using the issues tab above. If you would like to submit a PR with a fix, reference the issue you created.!)
+
+---
+## Contributing 📝
+
+If you would like to contribute to this repo `Voice Assistant Using Java`, please fork the repository and submit a pull request with your changes. Contributions are welcome and encouraged!
 
 ---
 ## Known issues (Work in progress... 👷🏽‍♂️⚒️)

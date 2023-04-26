@@ -18,5 +18,7 @@
     <orderEntry type="library" name="cmutimelex" level="project" />
     <orderEntry type="library" name="sphinx4-data-5prealpha-20160628.232535-10" level="project" />
     <orderEntry type="library" name="sphinx4-core-5prealpha-20160628.232526-10" level="project" />
+    <orderEntry type="library" name="opencv-470" level="project" />
+    <orderEntry type="library" name="OpenCV_NativeLib" level="project" />
   </component>
 </module>
