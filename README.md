@@ -44,7 +44,7 @@ But when it comes to speech-to-text, you need to prepare some stuffs beforehand 
 ---
 ## Contributing 📝
 
-If you would like to contribute to this repo `Voice Assistant Using Java`, please fork the repository and submit a pull request with your changes. Contributions are welcome and encouraged!
+If you would like to contribute to this repo `Voice_Assistant_Using_Java`, please fork the repository and submit a pull request with your changes. Contributions are welcome and encouraged!
 
 ---
 ## Known issues (Work in progress... 👷🏽‍♂️⚒️)
