@@ -25,7 +25,7 @@ public class Start2 extends JFrame{
     }
     public static void audio(){
         try {
-            String filePath="D:\\Priyanshu\\Java Programming\\Intellij Idea Projects\\Voice Assistant\\src\\Items\\1_2.wav";
+            String filePath="D:\\Priyanshu\\Intellij Idea Projects\\Voice Assistant\\src\\Items\\1_2.wav";
             Clip clip = AudioSystem.getClip();
             clip.open(AudioSystem.getAudioInputStream(new File(filePath).getAbsoluteFile()));
             clip.start();

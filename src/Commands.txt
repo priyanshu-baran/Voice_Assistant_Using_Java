@@ -1,14 +1,27 @@
-Wake up Jarvis
-Aankurit
-Hello Jarvis
-I'm Fine. What about you
-Sure Why not
-No, not now Jarvis
-Ok Jarvis
-Who Am I
-Tell me something about yourself
-Open Chrome
-Close it Jarvis
-Open Whatsapp
-Thanks Jarvis
-Bye Jarvis
+wake up jarvis
+hey jarvis
+priyanshu
+hello jarvis
+I'm fine what about you
+I'm good how are you
+yes
+sure
+yeah
+why not
+no
+not now
+ok
+who am I
+say something about me
+tell me something about yourself
+who are you
+open chrome
+close it jarvis
+close all applications
+open whatsapp
+thanks jarvis
+thank you so much jarvis
+bye jarvis
+shutdown your system
+goodbye jarvis
+bye bye
